@@ -4,7 +4,7 @@ print('My mothers name is',mom,',and i love she')
 
 # MIssion 2 
 a = 2*5-1
-print(res)
+print(a)
 b = (3-5)/2
 b = (3-5)//2
 print(b)
