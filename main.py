@@ -40,3 +40,6 @@ for i in c.lower():
     res.append(morza_kirilica[i] + ' ')
 result ="".join(res)
 print(result)
+
+
+print('я собака')
