@@ -36,7 +36,7 @@ morza_kirilica = {
 
 c = input('Русский - Морза: \nНапишите на русском\n')
 res = []
-for i in c: 
+for i in c.lower(): 
     res.append(morza_kirilica[i] + ' ')
 result ="".join(res)
 print(result)
