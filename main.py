@@ -41,3 +41,8 @@ for i in c.lower():
 result ="".join(res)
 print(result)
 print('Hello baby,My name is Sanjik,I am a bad boy,I have a big gone in my pants')
+
+def gay_test(person):
+    if person == 'gaayy'
+        return True
+    return False
