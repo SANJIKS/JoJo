@@ -40,3 +40,4 @@ for i in c.lower():
     res.append(morza_kirilica[i] + ' ')
 result ="".join(res)
 print(result)
+print('Hello baby,My name is Sanjik,I am a bad boy,I have a big gone in my pants')
