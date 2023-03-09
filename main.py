@@ -42,4 +42,4 @@ result ="".join(res)
 print(result)
 
 
-print('я собака')
+print('я собака)')
